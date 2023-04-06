@@ -1,0 +1,4 @@
+﻿  MainWindow.cpp
+d:\lsy\qt_winpcap_client\qt_winpcap_client\getnics.h(2): warning C4005: “WIN32”: 宏重定义
+  d:\lsy\qt_winpcap_client\qt_winpcap_client\mainwindow.cpp: note: 参见“WIN32”的前一个定义
+  QT_WinPcap_Client.vcxproj -> D:\lsy\QT_WinPcap_Client\Debug\QT_WinPcap_Client.exe
